@@ -1,0 +1,11 @@
+.venv/
+runtime/
+dependencies/
+hand_landmarker.task
+__pycache__/
+*.py[cod]
+bin/
+obj/
+tmp/
+*_calibration.json
+gesture_preferences.json
